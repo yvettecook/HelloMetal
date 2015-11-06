@@ -1,6 +1,6 @@
 # Hello Metal
 
-Learning about animations, graphics and Apple's MEtal framework.
+Learning about animations, graphics and Apple's Metal framework.
 
 Following this tutorial from Ray Wenderlich:
 
